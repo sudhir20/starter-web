@@ -13,4 +13,5 @@ copy vedava
 
 Please fork how to reslove
 updated redme added more lines
-good rights  
+good rights
+Good person `  
