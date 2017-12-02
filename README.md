@@ -11,4 +11,5 @@ copy riht notive
 copy sudhir
 copy vedava
 
-Please fork how to reslove 
+Please fork how to reslove
+updated redme 
