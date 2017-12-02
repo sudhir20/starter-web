@@ -12,4 +12,5 @@ copy sudhir
 copy vedava
 
 Please fork how to reslove
-updated redme added more lines 
+updated redme added more lines
+good rights  
